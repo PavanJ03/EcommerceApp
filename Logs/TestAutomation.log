@@ -1,0 +1,10 @@
+22:30:45.763 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\testng.xml
+
+22:30:50.264 [main] INFO  com.ecom.testbase.BaseClass.setUp(BaseClass.java:44)oggger - Application Launched Successfully
+22:30:50.286 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration.verify_Acct_Registration(TC001_TestAccountRegistration.java:15)oggger - ****   Home Page is displayed    ****
+22:32:15.293 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\testng.xml
+
+22:32:19.867 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+22:32:19.907 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
