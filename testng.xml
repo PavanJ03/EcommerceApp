@@ -5,7 +5,10 @@
   <parameter name ="browser" value ="edge"/>
   <classes>
   
-  	<class name ="com.ecom.testcases.TC001_TestAccountRegistration"/>
+  	<!--  class name ="com.ecom.testcases.TC001_TestAccountRegistration"/>-->
+  	<!--  <class name ="com.ecom.testcases.TC002_TestLogin"/>-->
+  	<class name ="com.ecom.testcases.TC003_DDLoginTest"/>
+  	
   
   </classes>
   </test> <!-- Test -->

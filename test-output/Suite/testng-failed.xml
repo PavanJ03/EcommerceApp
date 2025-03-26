@@ -4,12 +4,12 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="edge"/>
     <classes>
-      <class name="com.ecom.testcases.TC001_TestAccountRegistration">
+      <class name="com.ecom.testcases.TC003_DDLoginTest">
         <methods>
-          <include name="verify_Acct_Registration"/>
           <include name="setUp"/>
+          <include name="verifyLogin" invocation-numbers="1 2"/>
         </methods>
-      </class> <!-- com.ecom.testcases.TC001_TestAccountRegistration -->
+      </class> <!-- com.ecom.testcases.TC003_DDLoginTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

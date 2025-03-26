@@ -12,7 +12,7 @@ public class HomePage extends BasePage{
 	
 	@FindBy(xpath ="//span[normalize-space()='My Account']") WebElement txt_myacct_loc;
 	@FindBy(xpath ="//a[normalize-space()='Register']") WebElement txt_register_loc;
-	
+	@FindBy(linkText = "Login") WebElement btn_linkLogin_loc;
 	
 	public void clkMyAccount() {
 		txt_myacct_loc.click();
@@ -20,5 +20,8 @@ public class HomePage extends BasePage{
 	public void clkRegister() {
 		txt_register_loc.click();
 	}
-
+	public void clkLogin()    // added in step5
+	{
+		btn_linkLogin_loc.click();
+	}
 }
