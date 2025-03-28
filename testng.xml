@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Suite">
-  <test thread-count="5" name="Test">
-  <parameter name ="browser" value ="edge"/>
+<suite name="Suite" thread-count="5" >
+
+	<listeners>
+		<listener class-name="Utilities.ExtentReportManager"/>
+	</listeners>
+	<groups>
+		<run>
+			<include name ="Sanity"/>
+		</run>
+	</groups>
+	
+  <test name="Test">
+  	<parameter name ="browser" value ="edge"/>
+  	<parameter name ="os" value ="Windows"/>
   <classes>
   
-  	<!--  class name ="com.ecom.testcases.TC001_TestAccountRegistration"/>-->
-  	<!--  <class name ="com.ecom.testcases.TC002_TestLogin"/>-->
+  	<class name ="com.ecom.testcases.TC001_TestAccountRegistration"/>
+  	<class name ="com.ecom.testcases.TC002_TestLogin"/>
   	<class name ="com.ecom.testcases.TC003_DDLoginTest"/>
   	
   

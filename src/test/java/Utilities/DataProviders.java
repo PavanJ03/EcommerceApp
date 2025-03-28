@@ -4,9 +4,7 @@ import java.io.IOException;
 
 import org.testng.annotations.DataProvider;
 
-import com.ecom.testbase.BaseClass;
-
-public class DataProviders extends BaseClass{
+public class DataProviders{
 
 	//DataProvider 1
 	

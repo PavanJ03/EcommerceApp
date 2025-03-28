@@ -9,7 +9,7 @@ import com.ecom.testbase.BaseClass;
 
 public class TC001_TestAccountRegistration extends BaseClass{
 
-	@Test
+	@Test(groups = {"Master","Sanity"})
 	void verify_Acct_Registration() {
 		
 		logger.info("****   Home Page is displayed    ****");
@@ -32,6 +32,7 @@ public class TC001_TestAccountRegistration extends BaseClass{
 			ra.clkContinue();
 			
 			Assert.assertEquals(ra.getMessage(), "Your Account Has Been Created!");
+			logger.info("****   Account Registration completed    ****");
 		}
 		catch (Exception e) {
 			System.out.println(e.getMessage());

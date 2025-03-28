@@ -10,7 +10,7 @@ import com.ecom.testbase.BaseClass;
 
 public class TC002_TestLogin extends BaseClass{
 	
-	@Test
+	@Test(groups = {"Master","Regression","Sanity"})
 	public void verifyLogin() {
 		try {
 			HomePage hp = new HomePage(driver);

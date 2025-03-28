@@ -203,3 +203,232 @@
   C:\Users\Intel\eclipse-workspace\EcommerceApp\testng.xml
 
 19:00:21.128 [main] INFO  com.ecom.testcases.TC003_DDLoginTest - Application Launched Successfully
+19:13:35.308 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\testng.xml
+
+19:13:39.893 [main] INFO  com.ecom.testcases.TC003_DDLoginTest - Application Launched Successfully
+22:27:56.214 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\testng.xml
+
+22:28:00.669 [main] INFO  com.ecom.testcases.TC003_DDLoginTest - Application Launched Successfully
+22:30:58.967 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\testng.xml
+
+22:31:04.691 [main] INFO  com.ecom.testcases.TC003_DDLoginTest - Application Launched Successfully
+22:59:50.510 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\testng.xml
+
+22:59:56.983 [main] INFO  com.ecom.testcases.TC003_DDLoginTest - Application Launched Successfully
+23:01:03.366 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\testng.xml
+
+23:01:09.109 [main] INFO  com.ecom.testcases.TC003_DDLoginTest - Application Launched Successfully
+23:03:50.387 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\testng.xml
+
+23:03:57.752 [main] INFO  com.ecom.testcases.TC003_DDLoginTest - Application Launched Successfully
+23:10:38.291 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\testng.xml
+
+23:10:43.389 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+23:10:43.415 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+23:10:49.480 [main] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+23:10:51.376 [main] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully
+23:10:56.028 [main] INFO  com.ecom.testcases.TC003_DDLoginTest - Application Launched Successfully
+23:13:14.424 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\testng.xml
+
+23:13:19.311 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+23:13:19.332 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+23:13:27.259 [main] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+23:13:29.035 [main] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully
+2025-03-27 23:25:39.915 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\testng.xml
+
+2025-03-27 23:25:45.215 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-27 23:25:45.238 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-27 23:25:51.572 [main] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-27 23:25:53.508 [main] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully
+2025-03-28 23:01:01.124 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\parallel.xml
+
+2025-03-28 23:01:06.469 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:01:10.875 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-28 23:01:10.890 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-28 23:01:19.506 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Account Registration completed    ****
+2025-03-28 23:01:38.583 [TestNG-tests-3] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:01:40.304 [TestNG-tests-3] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully
+2025-03-28 23:03:36.173 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\parallel.xml
+
+2025-03-28 23:03:41.167 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-28 23:03:41.176 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-28 23:03:43.872 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Account Registration completed    ****
+2025-03-28 23:12:25.613 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\parallel.xml
+
+2025-03-28 23:12:28.366 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-28 23:12:28.371 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-28 23:12:30.752 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Account Registration completed    ****
+2025-03-28 23:14:15.391 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\parallel.xml
+
+2025-03-28 23:14:18.719 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-28 23:14:18.729 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-28 23:14:22.438 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:14:24.814 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Account Registration completed    ****
+2025-03-28 23:14:24.840 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully
+2025-03-28 23:16:01.970 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\parallel.xml
+
+2025-03-28 23:16:06.051 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-28 23:16:06.081 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-28 23:16:11.842 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:16:16.980 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Exception has thrown. Test failed    ****
+2025-03-28 23:16:16.993 [TestNG-tests-3] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:23:44.888 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\parallel.xml
+
+2025-03-28 23:23:48.114 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-28 23:23:48.141 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-28 23:23:55.620 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:23:55.674 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Exception has thrown. Test failed    ****
+2025-03-28 23:24:01.183 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:24:02.990 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully
+2025-03-28 23:27:41.935 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\parallel.xml
+
+2025-03-28 23:27:47.494 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-28 23:27:47.529 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-28 23:27:51.493 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:27:56.646 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Exception has thrown. Test failed    ****
+2025-03-28 23:33:01.318 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\crossbrowsertests.xml
+
+2025-03-28 23:33:04.507 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-28 23:33:04.542 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-28 23:33:06.734 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Account Registration completed    ****
+2025-03-28 23:33:12.357 [main] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:33:13.774 [main] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully
+2025-03-28 23:33:19.296 [main] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:33:20.871 [main] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully
+2025-03-28 23:34:16.453 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\crossbrowsertests.xml
+
+2025-03-28 23:34:19.329 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-28 23:34:19.363 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-28 23:34:22.002 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:34:24.391 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully
+2025-03-28 23:34:24.425 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Account Registration completed    ****
+2025-03-28 23:34:31.974 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:34:34.210 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully
+2025-03-28 23:36:19.627 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\testng.xml
+
+2025-03-28 23:36:25.594 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-28 23:36:25.615 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-28 23:36:28.466 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Account Registration completed    ****
+2025-03-28 23:36:33.549 [main] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:36:35.194 [main] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully
+2025-03-28 23:38:32.527 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\parallel.xml
+
+2025-03-28 23:38:39.683 [TestNG-tests-3] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:38:40.706 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-28 23:38:40.713 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-28 23:38:41.142 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:38:47.653 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Exception has thrown. Test failed    ****
+2025-03-28 23:39:27.475 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\parallel.xml
+
+2025-03-28 23:39:32.199 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-28 23:39:32.231 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-28 23:39:34.444 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Account Registration completed    ****
+2025-03-28 23:39:39.515 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:39:41.019 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully
+2025-03-28 23:39:53.904 [TestNG-tests-3] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:39:55.348 [TestNG-tests-3] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully
+2025-03-28 23:41:36.084 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\testng.xml
+
+2025-03-28 23:41:40.774 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-28 23:41:40.798 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-28 23:41:42.842 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Account Registration completed    ****
+2025-03-28 23:41:48.160 [main] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:41:49.611 [main] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully
+2025-03-28 23:41:55.179 [main] INFO  com.ecom.testcases.TC003_DDLoginTest - Application Launched Successfully
+2025-03-28 23:44:37.908 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\parallel.xml
+
+2025-03-28 23:44:45.147 [TestNG-tests-3] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:44:45.388 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:44:45.416 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-28 23:44:45.421 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-28 23:44:51.161 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Exception has thrown. Test failed    ****
+2025-03-28 23:45:19.567 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\parallel.xml
+
+2025-03-28 23:45:23.281 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-28 23:45:23.310 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-28 23:45:26.635 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:45:31.863 [TestNG-tests-3] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:45:32.877 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Exception has thrown. Test failed    ****
+2025-03-28 23:47:02.515 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\parallel.xml
+
+2025-03-28 23:47:06.033 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-28 23:47:06.053 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-28 23:47:08.812 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:47:13.121 [TestNG-tests-3] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:47:13.944 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Exception has thrown. Test failed    ****
+2025-03-28 23:48:58.300 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\parallel.xml
+
+2025-03-28 23:49:02.111 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-28 23:49:02.139 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-28 23:49:05.980 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:49:06.967 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Account Registration completed    ****
+2025-03-28 23:49:10.550 [TestNG-tests-3] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:49:12.257 [TestNG-tests-3] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully
+2025-03-28 23:50:42.628 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\parallel.xml
+
+2025-03-28 23:50:46.245 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-28 23:50:46.306 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-28 23:50:49.044 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:50:53.379 [TestNG-tests-3] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:50:54.296 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Exception has thrown. Test failed    ****
+2025-03-28 23:55:09.571 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\testng.xml
+
+2025-03-28 23:55:14.219 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-28 23:55:14.255 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-28 23:55:16.108 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Account Registration completed    ****
+2025-03-28 23:55:21.268 [main] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:55:22.479 [main] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully
+2025-03-28 23:56:58.124 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\parallel.xml
+
+2025-03-28 23:57:03.151 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-28 23:57:03.172 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-28 23:57:05.138 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:57:09.977 [TestNG-tests-3] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:57:11.829 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Exception has thrown. Test failed    ****
+2025-03-28 23:58:13.553 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\crossbrowsertests.xml
+
+2025-03-28 23:58:16.794 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-28 23:58:16.818 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-28 23:58:18.680 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Account Registration completed    ****
+2025-03-28 23:58:23.070 [main] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:58:24.430 [main] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully
+2025-03-28 23:58:30.023 [main] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:58:31.341 [main] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully
+2025-03-28 23:59:44.861 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\parallel.xml
+
+2025-03-28 23:59:49.023 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-28 23:59:49.065 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-28 23:59:51.990 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:59:57.102 [TestNG-tests-3] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-28 23:59:58.039 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Exception has thrown. Test failed    ****
