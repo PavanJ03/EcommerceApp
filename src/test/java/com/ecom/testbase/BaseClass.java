@@ -41,6 +41,7 @@ public class BaseClass {
 		prop.load(propfile);
 		
 		if(prop.getProperty("execution_env").equalsIgnoreCase("remote")) {
+			logger.info("Executing test suite in remote environment");
 			
 			DesiredCapabilities capabilities = new DesiredCapabilities();
 			
@@ -69,6 +70,8 @@ public class BaseClass {
 		}
 		
 		else if(prop.getProperty("execution_env").equalsIgnoreCase("local")) {
+			logger.info("Executing test suite in local environment");
+
 			switch (browserName.toLowerCase())
 			{
 			case "chrome" : driver= new ChromeDriver(); break;
@@ -110,7 +113,7 @@ public class BaseClass {
 		TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
 		File sourceFile = takesScreenshot.getScreenshotAs(OutputType.FILE);
 		
-		String targetFilePath=System.getProperty("user.dir")+"\\Screenshots\\" + tname + "_" + timeStamp + ".png";
+		String targetFilePath=System.getProperty("user.dir")+"\\Screenshots\\FailureSnaps\\" + tname + "_" + timeStamp + ".png";
 		File targetFile=new File(targetFilePath);
 		
 		sourceFile.renameTo(targetFile);

@@ -432,3 +432,27 @@
 2025-03-28 23:59:51.990 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
 2025-03-28 23:59:57.102 [TestNG-tests-3] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
 2025-03-28 23:59:58.039 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Exception has thrown. Test failed    ****
+2025-03-29 19:02:45.567 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\grid-docker.xml
+
+2025-03-29 19:02:58.419 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-29 19:02:58.455 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-29 19:03:03.898 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Account Registration completed    ****
+2025-03-29 19:03:28.925 [main] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-29 19:03:31.634 [main] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully
+2025-03-29 20:02:56.091 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\grid-docker.xml
+
+2025-03-29 20:02:56.400 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Executing test suite in remote environment
+2025-03-29 20:02:58.916 [main] INFO  com.ecom.testcases.TC002_TestLogin - Executing test suite in remote environment
+2025-03-29 20:02:59.448 [main] INFO  com.ecom.testcases.TC002_TestLogin - Executing test suite in remote environment
+2025-03-29 20:16:17.452 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\grid-docker.xml
+
+2025-03-29 20:16:17.703 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Executing test suite in remote environment
+2025-03-29 20:16:17.843 [TestNG-tests-3] INFO  com.ecom.testcases.TC002_TestLogin - Executing test suite in remote environment
+2025-03-29 20:16:17.844 [TestNG-tests-2] INFO  com.ecom.testcases.TC002_TestLogin - Executing test suite in remote environment
+2025-03-29 20:17:47.599 [TestNG-tests-2] INFO  com.ecom.testcases.TC003_DDLoginTest - Executing test suite in remote environment
+2025-03-29 20:17:52.154 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-29 20:17:52.197 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-29 20:20:39.552 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Account Registration completed    ****
