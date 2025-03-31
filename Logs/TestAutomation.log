@@ -456,3 +456,34 @@
 2025-03-29 20:17:52.154 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
 2025-03-29 20:17:52.197 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
 2025-03-29 20:20:39.552 [TestNG-tests-1] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Account Registration completed    ****
+2025-03-29 22:10:51.228 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Intel\eclipse-workspace\EcommerceApp\testng.xml
+
+2025-03-29 22:10:51.527 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Executing test suite in local environment
+2025-03-29 22:10:54.835 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-29 22:10:54.892 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-29 22:10:56.934 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Account Registration completed    ****
+2025-03-29 22:10:58.267 [main] INFO  com.ecom.testcases.TC002_TestLogin - Executing test suite in local environment
+2025-03-29 22:11:00.383 [main] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-29 22:11:01.752 [main] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully
+2025-03-31 13:59:54.974 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Executing test suite in local environment
+2025-03-31 13:59:58.687 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-31 13:59:58.706 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-31 14:00:01.262 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Account Registration completed    ****
+2025-03-31 14:00:02.589 [main] INFO  com.ecom.testcases.TC002_TestLogin - Executing test suite in local environment
+2025-03-31 14:00:04.723 [main] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-31 14:00:06.322 [main] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully
+2025-03-31 14:14:57.404 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Executing test suite in local environment
+2025-03-31 14:15:00.880 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-31 14:15:00.901 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-31 14:15:03.372 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Account Registration completed    ****
+2025-03-31 14:15:04.874 [main] INFO  com.ecom.testcases.TC002_TestLogin - Executing test suite in local environment
+2025-03-31 14:15:07.072 [main] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-31 14:15:08.554 [main] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully
+2025-03-31 14:21:03.769 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Executing test suite in local environment
+2025-03-31 14:21:06.569 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - Application Launched Successfully
+2025-03-31 14:21:06.599 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Home Page is displayed    ****
+2025-03-31 14:21:08.823 [main] INFO  com.ecom.testcases.TC001_TestAccountRegistration - ****   Account Registration completed    ****
+2025-03-31 14:21:10.207 [main] INFO  com.ecom.testcases.TC002_TestLogin - Executing test suite in local environment
+2025-03-31 14:21:12.266 [main] INFO  com.ecom.testcases.TC002_TestLogin - Application Launched Successfully
+2025-03-31 14:21:13.863 [main] INFO  com.ecom.testcases.TC002_TestLogin - Logged in Successfully

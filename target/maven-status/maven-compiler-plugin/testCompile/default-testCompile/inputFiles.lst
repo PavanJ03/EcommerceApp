@@ -1,0 +1,12 @@
+C:\Users\Intel\eclipse-workspace\EcommerceApp\src\test\java\com\ecom\pageobjects\BasePage.java
+C:\Users\Intel\eclipse-workspace\EcommerceApp\src\test\java\com\ecom\pageobjects\HomePage.java
+C:\Users\Intel\eclipse-workspace\EcommerceApp\src\test\java\com\ecom\pageobjects\LoginPage.java
+C:\Users\Intel\eclipse-workspace\EcommerceApp\src\test\java\com\ecom\pageobjects\MyAccount.java
+C:\Users\Intel\eclipse-workspace\EcommerceApp\src\test\java\com\ecom\pageobjects\RegisterAccount.java
+C:\Users\Intel\eclipse-workspace\EcommerceApp\src\test\java\com\ecom\testbase\BaseClass.java
+C:\Users\Intel\eclipse-workspace\EcommerceApp\src\test\java\com\ecom\testcases\TC001_TestAccountRegistration.java
+C:\Users\Intel\eclipse-workspace\EcommerceApp\src\test\java\com\ecom\testcases\TC002_TestLogin.java
+C:\Users\Intel\eclipse-workspace\EcommerceApp\src\test\java\com\ecom\testcases\TC003_DDLoginTest.java
+C:\Users\Intel\eclipse-workspace\EcommerceApp\src\test\java\Utilities\DataProviders.java
+C:\Users\Intel\eclipse-workspace\EcommerceApp\src\test\java\Utilities\ExcelUtility.java
+C:\Users\Intel\eclipse-workspace\EcommerceApp\src\test\java\Utilities\ExtentReportManager.java
