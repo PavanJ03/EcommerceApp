@@ -1,5 +1,6 @@
 package com.ecom.testcases;
 
+
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -8,9 +9,11 @@ import com.ecom.pageobjects.LoginPage;
 import com.ecom.pageobjects.MyAccount;
 import com.ecom.testbase.BaseClass;
 
+import Utilities.Retry;
+
 public class TC002_TestLogin extends BaseClass{
 	
-	@Test(groups = {"Master","Regression","Sanity"})
+	@Test(retryAnalyzer = Retry.class, groups = {"Master","Regression","Sanity"})
 	public void verifyLogin() {
 		try {
 			HomePage hp = new HomePage(driver);
